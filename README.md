@@ -33,3 +33,4 @@ Este proyecto simula un sistema de inventario que usa una **tabla hash** para al
 
 ```bash
 pip install matplotlib pandas
+
