@@ -1,10 +1,10 @@
-#Sistema de Tabla Hash – Gestión de Inventario
+# Sistema de Tabla Hash – Gestión de Inventario
 
 Implementación en Python de una **tabla hash con encadenamiento separado** para gestionar productos en inventario. Incluye **pruebas de rendimiento**, **visualización de estadísticas**, **carga desde CSV**, y **generación de gráficas interactivas**.
 
 ---
 
-##¿Qué es esto?
+## ¿Qué es esto?
 
 Este proyecto simula un sistema de inventario que usa una **tabla hash** para almacenar productos. Permite:
 
@@ -33,4 +33,5 @@ Este proyecto simula un sistema de inventario que usa una **tabla hash** para al
 
 ```bash
 pip install matplotlib pandas
+
 
